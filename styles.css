@@ -1,0 +1,28 @@
+body{
+    color: white;
+    background-color: black;
+    font-family:'SalmaPro';
+    text-align: center;
+}
+
+h2{
+size:35px;
+}
+
+@font-face {
+    font-family: 'SalmaPro';
+    src: url('SalmaPro-Medium.otf') format('woff2'),
+    url('SalmaPro-Medium.otf') format('woff');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+#logo{
+    font-family: 'SalmaPro';
+    font-size: 250px;
+    text-align: center;
+    color: white;
+    margin-top: 15%;
+    margin-bottom: 20%;
+}
+
